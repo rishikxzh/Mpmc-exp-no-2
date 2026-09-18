@@ -1,7 +1,7 @@
 # STEPPER MOTOR INTERFACING
 
 ## AIM
-To write an assembly language program in 8086 to rotate the motor at different speeds.
+To write an assembly language program in 8086 to rotate the motor at different the speeds.
 
 ---
 
